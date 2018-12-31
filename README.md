@@ -2,7 +2,6 @@
 
 - Minimal Lubuntu Bionic 18.04.1 (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
-- NAT port forwarding configured on 8888 that allows web browser testing outside virtual machine
 - Anaconda 3 distribution with tons of data science and big data libraries
 - conda (package manager) to add more software
 - Python 3
