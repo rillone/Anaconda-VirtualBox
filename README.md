@@ -1,4 +1,4 @@
-# Anaconda-VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Anaconda.ova)
+# Anaconda-VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Anaconda.ova) - [VIDEO] (https://www.youtube.com/watch?v=LUWFLP3j8Uw)
 
 - Minimal Lubuntu Bionic 18.04.2 (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
@@ -11,9 +11,6 @@
 - Added Anaconda to .bashrc: export PATH="/home/lubuntu/anaconda3/bin:$PATH"
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
-
-**VIDEO**: https://www.youtube.com/watch?v=LUWFLP3j8Uw
-
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
 
