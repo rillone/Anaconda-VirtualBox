@@ -1,6 +1,6 @@
 # Anaconda-VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Anaconda.ova)
 
-- Minimal Lubuntu Bionic 18.04.1 (lubuntu-core package)
+- Minimal Lubuntu Bionic 18.04.2 (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Anaconda 3 distribution with tons of data science and big data libraries
 - Conda (package manager) allows you to add more software
