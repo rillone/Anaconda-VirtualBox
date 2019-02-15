@@ -12,8 +12,8 @@
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
-**VIDEO**
-https://www.youtube.com/watch?v=LUWFLP3j8Uw
+**VIDEO**: https://www.youtube.com/watch?v=LUWFLP3j8Uw
+
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
 
