@@ -18,3 +18,6 @@
 ![JupyterChromium](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/jupyterChromium.png)
 ![JupyterHelloWorld](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/jupyterHelloWorld.png)
 ![Spyder](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/spyder.png)
+
+**VIDEO**
+https://www.youtube.com/watch?v=LUWFLP3j8Uw
