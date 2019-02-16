@@ -8,6 +8,7 @@
 - IPython
 - Spyder IDE
 - Jupyter notebook server
+- Chromium browser
 - Added Anaconda to .bashrc: export PATH="/home/lubuntu/anaconda3/bin:$PATH"
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
