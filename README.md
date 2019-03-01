@@ -18,6 +18,8 @@
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
 
 # GALLERY
+![Desktop](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/desktop.png)
+![AnacondaNavigator](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/navigator.png)
 ![JupyterChromium](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/jupyterChromium.png)
 ![JupyterHelloWorld](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/jupyterHelloWorld.png)
 ![Spyder](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/spyder.png)
