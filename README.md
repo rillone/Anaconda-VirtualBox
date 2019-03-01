@@ -4,7 +4,7 @@
 - Linux Kernel 4.18 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Anaconda 3 distribution with tons of data science and big data libraries
-- Conda (package manager) allows you to add more software
+- With Conda (package manager) you can add more software
 - Anaconda Navigator allows you to launch apps easily and install new ones
 - Python 3
 - IPython
