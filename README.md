@@ -1,5 +1,7 @@
 # Anaconda VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Anaconda.ova) - [VIDEO](https://www.youtube.com/watch?v=LUWFLP3j8Uw)
 
+Last update: 29/03/2019
+
 - Minimal Lubuntu Bionic 18.04.2 (lubuntu-core package)
 - Linux Kernel 4.18 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
