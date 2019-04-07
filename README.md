@@ -20,8 +20,8 @@ Last update: 29/03/2019
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
 
 # GALLERY
-![Desktop](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/desktop.png)
-![AnacondaNavigator](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/navigator.png)
-![JupyterChromium](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/jupyterChromium.png)
-![JupyterHelloWorld](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/jupyterHelloWorld.png)
-![Spyder](https://github.com/Virtual-Machines/Anaconda-VirtualBox/blob/master/spyder.png)
+![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
+![AnacondaNavigator](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/navigator.png)
+![JupyterChromium](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/jupyterChromium.png)
+![JupyterHelloWorld](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/jupyterHelloWorld.png)
+![Spyder](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/spyder.png)
