@@ -2,6 +2,12 @@
 
 Last update: 2019-04-13
 
+![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
+![AnacondaNavigator](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/navigator.png)
+![JupyterChromium](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/jupyterChromium.png)
+![JupyterHelloWorld](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/jupyterHelloWorld.png)
+![Spyder](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/spyder.png)
+
 - Minimal Lubuntu Bionic 18.04.2 (lubuntu-core package)
 - Linux Kernel 4.18 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
@@ -18,10 +24,3 @@ Last update: 2019-04-13
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
-
-# GALLERY
-![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
-![AnacondaNavigator](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/navigator.png)
-![JupyterChromium](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/jupyterChromium.png)
-![JupyterHelloWorld](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/jupyterHelloWorld.png)
-![Spyder](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/spyder.png)
