@@ -1,6 +1,6 @@
 # Anaconda VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Anaconda.ova) - [VIDEO](https://www.youtube.com/watch?v=LUWFLP3j8Uw)
 
-Last update: 2019-04-13
+Last update: 2019-04-16
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
 ![AnacondaNavigator](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/navigator.png)
@@ -22,5 +22,7 @@ Last update: 2019-04-13
 - Added Anaconda to .bashrc: export PATH="/home/lubuntu/anaconda3/bin:$PATH"
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
+
+New, dedicated to @itsergiu: If you want an Auto-Keras machine you can get it here [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
