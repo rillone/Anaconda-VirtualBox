@@ -2,7 +2,7 @@
 
 Last update: 2019-04-16
 
-**New!** dedicated to [**@itsergiu**](https://github.com/itsergiu). If you want an Auto-Keras machine you can get it here: [**DOWNLOAD**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
+**New!** dedicated to [**@itsergiu**](https://github.com/itsergiu). If you want an Auto-Keras machine you can get it here: [**DOWNLOAD AUTO-KERAS**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
 ![AnacondaNavigator](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/navigator.png)
