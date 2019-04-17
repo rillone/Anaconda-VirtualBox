@@ -2,6 +2,8 @@
 
 Last update: 2019-04-16
 
+**New!** dedicated to [**@itsergiu**](https://github.com/itsergiu). If you want an Auto-Keras machine you can get it here: [**DOWNLOAD**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
+
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
 ![AnacondaNavigator](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/navigator.png)
 ![JupyterChromium](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/jupyterChromium.png)
@@ -22,7 +24,5 @@ Last update: 2019-04-16
 - Added Anaconda to .bashrc: export PATH="/home/lubuntu/anaconda3/bin:$PATH"
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
-
-**New!** dedicated to [**@itsergiu**](https://github.com/itsergiu). If you want an Auto-Keras machine you can get it here: [**DOWNLOAD**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
 
 [**OPINION**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3)
