@@ -2,7 +2,7 @@
 
 Last update: 2019-07-27
 
-**Extra!** dedicated to [**@itsergiu**](https://github.com/itsergiu). If you want an Auto-Keras machine you can get it here: [**DOWNLOAD AUTO-KERAS**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
+**New!** dedicated to [**@renejara-infotec**](https://github.com/renejara-infotec) Added R language support to Jupyter
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
 ![AnacondaNavigator](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/navigator.png)
@@ -25,5 +25,7 @@ Last update: 2019-07-27
 - Added Anaconda to .bashrc: export PATH="/home/lubuntu/anaconda3/bin:$PATH"
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
+
+**Extra!** dedicated to [**@itsergiu**](https://github.com/itsergiu). If you want an Auto-Keras machine you can get it here: [**DOWNLOAD AUTO-KERAS**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
 
 [**OPINION**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3)
