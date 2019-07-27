@@ -17,6 +17,7 @@ Last update: 2019-07-27
 - With Conda (package manager) you can add more software
 - Anaconda Navigator allows you to launch apps easily and install new ones
 - Python 3
+- R
 - IPython
 - Spyder IDE
 - Jupyter notebook server
