@@ -3,6 +3,7 @@
 Last update: 2019-07-27
 
 **New!** dedicated to [**@renejara-infotec**](https://github.com/renejara-infotec) Added R language support to Jupyter
+![R](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/R.png)
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
 ![AnacondaNavigator](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/navigator.png)
