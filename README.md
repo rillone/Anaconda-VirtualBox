@@ -1,8 +1,7 @@
 # Anaconda VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Anaconda.ova) - [VIDEO](https://www.youtube.com/watch?v=LUWFLP3j8Uw)
 
-Last update: 2019-07-27
+Last update: 2019-10-05
 
-**New!** dedicated to [**@renejara-infotec**](https://github.com/renejara-infotec): Added R language support to Jupyter
 ![R](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/R.png)
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
@@ -11,8 +10,8 @@ Last update: 2019-07-27
 ![JupyterHelloWorld](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/jupyterHelloWorld.png)
 ![Spyder](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/spyder.png)
 
-- Minimal Lubuntu Bionic 18.04.2 (lubuntu-core package)
-- Linux Kernel 4.18 HWE (Hardware Enablement)
+- Minimal Lubuntu Bionic 18.04.3 (lubuntu-core package)
+- Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Anaconda 3 distribution with tons of data science and big data libraries
 - With Conda (package manager) you can add more software
