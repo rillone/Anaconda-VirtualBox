@@ -2,6 +2,8 @@
 
 Last update: 2019-10-05
 
+**New!** (Dedicated to [@PaulAirs](https://github.com/PaulAirs)) Simplified keyboard layout selection (added to bottom right text: ES,US...)
+
 ![R](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/R.png)
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
