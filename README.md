@@ -2,7 +2,7 @@
 
 Last update: 2019-12-24
 
-[Fixed graphics bug](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3#issuecomment-568251003) installing latest guest additions
+[Fixed graphics bug](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3#issuecomment-568799722) installing latest guest additions
 
 ![R](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/R.png)
 
