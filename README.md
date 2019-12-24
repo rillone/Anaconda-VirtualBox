@@ -30,6 +30,6 @@ Last update: 2019-12-24
 
 **Extra!** dedicated to [**@itsergiu**](https://github.com/itsergiu). If you want an Auto-Keras machine you can get it here: [**DOWNLOAD AUTO-KERAS**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
 
-(Dedicated to [@PaulAirs](https://github.com/PaulAirs)) Simplified keyboard layout selection (added to bottom right text: ES,US...)
+(Dedicated to [@PaulAirs](https://github.com/PaulAirs)) Simplified keyboard layout selection [(added to bottom right text: ES,US...)](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3#issuecomment-537452000)
 
 [**OPINION**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3)
