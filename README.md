@@ -28,8 +28,8 @@ Last update: 2019-12-24
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
-**Extra!** dedicated to [**@itsergiu**](https://github.com/itsergiu). If you want an Auto-Keras machine you can get it here: [**DOWNLOAD AUTO-KERAS**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
+**Extra!** dedicated to @itsergiu. If you want an Auto-Keras machine you can get it here: [**DOWNLOAD AUTO-KERAS**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
 
-(Dedicated to [@PaulAirs](https://github.com/PaulAirs)) Simplified keyboard layout selection [(added to bottom right text: ES,US...)](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3#issuecomment-537452000)
+(Dedicated to @PaulAirs [Simplified keyboard layout selection (added to bottom right text: ES,US...)](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3#issuecomment-537452000)
 
 [**OPINION**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3)
