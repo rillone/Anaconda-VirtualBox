@@ -1,6 +1,7 @@
 # Anaconda VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Anaconda.ova) - [VIDEO](https://www.youtube.com/watch?v=LUWFLP3j8Uw)
 
 Last update: 2019-12-24
+
 [Fixed graphics bug](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3#issuecomment-568251003) installing latest guest additions
 
 ![R](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/R.png)
