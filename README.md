@@ -1,8 +1,6 @@
 # Anaconda VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Anaconda.ova) - [VIDEO](https://www.youtube.com/watch?v=LUWFLP3j8Uw)
 
-Last update: 2019-10-05
-
-**New!** (Dedicated to [@PaulAirs](https://github.com/PaulAirs)) Simplified keyboard layout selection (added to bottom right text: ES,US...)
+Last update: 2019-12-24
 
 ![R](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/R.png)
 
@@ -29,5 +27,7 @@ Last update: 2019-10-05
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 **Extra!** dedicated to [**@itsergiu**](https://github.com/itsergiu). If you want an Auto-Keras machine you can get it here: [**DOWNLOAD AUTO-KERAS**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Autokeras.ova)
+
+(Dedicated to [@PaulAirs](https://github.com/PaulAirs)) Simplified keyboard layout selection (added to bottom right text: ES,US...)
 
 [**OPINION**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3)
