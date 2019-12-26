@@ -2,8 +2,6 @@
 
 [**Your OPINION is important**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link) - Last update: 2019-12-26
 
-[Fixed graphics bug](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3#issuecomment-568799722) installing latest VirtualBox Guest Additions
-
 ![R](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/R.png)
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
