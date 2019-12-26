@@ -31,4 +31,4 @@
 
 Dedicated to @PaulAirs: [Simplified keyboard layout selection](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3#issuecomment-537452000) (added to bottom right text: ES,US...)
 
-[**OPINION**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3)
+[**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
