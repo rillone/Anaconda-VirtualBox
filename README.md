@@ -2,6 +2,7 @@
 
 [**Your OPINION is important**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link) - Last update: 2019-12-26
 
+
 ![R](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/R.png)
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/desktop.png)
