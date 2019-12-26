@@ -1,6 +1,6 @@
 # Anaconda VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Anaconda.ova) - [VIDEO](https://www.youtube.com/watch?v=LUWFLP3j8Uw)
 
-Last update: 2019-12-24 [**Your OPINION is important**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
+[**Your OPINION is important**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link) - Last update: 2019-12-26
 
 [Fixed graphics bug](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3#issuecomment-568799722) installing latest VirtualBox Guest Additions
 
