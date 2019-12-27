@@ -1,6 +1,6 @@
 # Anaconda VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Anaconda-VirtualBox/releases/download/latest/Anaconda.ova) - [VIDEO](https://www.youtube.com/watch?v=LUWFLP3j8Uw)
 
-[**Your OPINION is important**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link) - Last update: 2019-12-26
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3) - Last update: 2019-12-26
 
 
 ![R](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/R.png)
@@ -31,4 +31,4 @@
 
 Dedicated to @PaulAirs: [Simplified keyboard layout selection](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3#issuecomment-537452000) (added to bottom right text: ES,US...)
 
-[**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
+[**OPINION**](https://github.com/Virtual-Machines/Anaconda-VirtualBox/issues/3)
